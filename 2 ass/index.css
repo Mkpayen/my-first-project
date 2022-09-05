@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+    background-color: rgb(238, 236, 236);
+}
+hr{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+.items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1,
+h2,
+h3{
+    color: blue;
+}
+.image{
+    height: 300px;
+    width: 400px;
+}
