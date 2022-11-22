@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    background-color:brown ;
+}
+#header-text{
+    background-image: url(./images/background.png);
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+}
+ .py1-1{
+    padding-top: 150px; 
+ } 
+ .displays{
+    font-size: 25px;
+    font-weight: 300;
+}
+.card{
+    width: 250px;
+    margin: 0 auto;
+    margin-top: -85px;
+}
+.images{
+    margin: 0 auto;
+    margin-top: -50px;
+    padding-left: 20px;
+}
+
+
+
